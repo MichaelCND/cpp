@@ -33,7 +33,7 @@ int main() {
 			cout << "\n";
 			break;
 		}
-		for (int i = 0 ; i < 2 ; i++)
+		for (int i = 0 ; i < size(arr); i++)
 		{
 			cout << arr[i];
 		}
